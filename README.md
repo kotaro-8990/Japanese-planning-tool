@@ -62,4 +62,5 @@ Markdownエディタ（GitHub上でも可）で以下のような構成を編集
 © 2025 @kotaro-8990  
 このドキュメントは Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) ライセンスのもとで公開されています。  
 商用利用はご遠慮ください。  
-詳しくは [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/) をご覧ください。
+Creative Commons BY-NC 4.0 ライセンスの詳細は  
+https://creativecommons.org/licenses/by-nc/4.0/ をご覧ください。
