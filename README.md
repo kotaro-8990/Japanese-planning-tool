@@ -49,17 +49,18 @@ Markdownエディタ（GitHub上でも可）で以下のような構成を編集
 
 ---
 
-> このドキュメントは @kotaro-8990 によるオリジナルです。  
-> 無断転載・改変はご遠慮ください。
-`
-
----
-
-これを docs/usage.md に保存すれば、READMEからリンクされたときに「おっ、ちゃんと中身あるじゃん！」ってなるはずです😎
+> これを docs/usage.md に保存すれば、READMEからリンクされたときに「おっ、ちゃんと中身あるじゃん！」ってなるはずです😎
 
 次は examples/weekly-plan.md などのテンプレートを作る番ですね。どれからいきましょう？「週次計画」「タスク分担」「進捗報告」どれも面白そうです！
 
+---
+
+> 📄 このドキュメントは @kotaro-8990 によるオリジナルです。  
+> ライセンスに従って、非営利目的での利用をお願いいたします。
+
+---
+
 © 2025 @kotaro-8990  
-このドキュメントは Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) ライセンスのもとで公開されています。  
-商用利用はご遠慮ください。  
-Creative Commons BY-NC 4.0 ライセンスの詳細は [こちら](https://creativecommons.org/licenses/by-nc/4.0/) をご覧ください。
+このドキュメントは **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** ライセンスのもとで公開されています。  
+商用利用はご遠慮いただき、非営利目的でのご利用をお願いいたします。  
+🔗 ライセンスの詳細は [こちら](https://creativecommons.org/licenses/by-nc/4.0/) をご覧ください。
