@@ -203,4 +203,5 @@ Markdownエディタ（GitHub上でも可）で以下のような構成を編集
 © 2025 @kotaro-8990  
 このドキュメントは **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** ライセンスのもとで公開されています。  
 商用利用はご遠慮いただき、非営利目的でのご利用をお願いいたします。  
+※名称・構造・表現の商標利用はご遠慮ください。
 🔗 ライセンスの詳細は [こちら](https://creativecommons.org/licenses/by-nc/4.0/deed.ja) をご覧ください。
