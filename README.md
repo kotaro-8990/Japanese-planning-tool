@@ -1,4 +1,16 @@
-🗾 Japanese-planning-toolとは？
+---
+
+## 🌐 English Summary
+
+This repository offers a planning tool tailored for native Japanese speakers who want to create structured, meaningful plans using Markdown. It emphasizes clarity, personal style, and contextual depth—especially useful for sharing on blogs or social media.  
+
+All templates and documentation are written in Japanese, as the tool is designed to support Japanese-language planning workflows.  
+If you're not a Japanese speaker, feel free to explore the structure and templates as design references.
+For detailed usage instructions, please refer to docs/usage.md (Japanese only).
+
+---
+
+## 🗾 Japanese-planning-toolとは？
 
 「日本語で、構造的に、納得感のある計画を立てたい人のためのツール」です。  
 商用ソフトに頼らず、Markdownで軽やかに計画を整理し、共有・発信にも応用できるよう設計しています。
@@ -202,6 +214,7 @@ Markdownエディタ（GitHub上でも可）で以下のような構成を編集
 
 © 2025 @kotaro-8990  
 このドキュメントは **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** ライセンスのもとで公開されています。  
+Licensed under CC BY-NC 4.0. Non-commercial use only.  
 商用利用はご遠慮いただき、非営利目的でのご利用をお願いいたします。  
-※名称・構造・表現の商標利用はご遠慮ください。
+※名称・構造・表現の商標利用はご遠慮ください。  
 🔗 ライセンスの詳細は [こちら](https://creativecommons.org/licenses/by-nc/4.0/deed.ja) をご覧ください。
