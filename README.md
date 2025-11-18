@@ -217,4 +217,4 @@ Markdownエディタ（GitHub上でも可）で以下のような構成を編集
 Licensed under CC BY-NC-ND 4.0. Non-commercial use only, no derivatives.
 商用利用や改変はご遠慮いただき、非営利目的でのご利用をお願いいたします。
 ※名称・構造・表現の商標利用はご遠慮ください。
-🔗 ライセンスの詳細はhttps://creativecommons.org/licenses/by-nc-nd/4.0/deed.jaをご覧ください。
+🔗 ライセンスの詳細はhttps://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja をご覧ください。
