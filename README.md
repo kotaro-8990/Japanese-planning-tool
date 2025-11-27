@@ -212,9 +212,15 @@ Markdownエディタ（GitHub上でも可）で以下のような構成を編集
 
 ---
 
-© 2025 @kotaro-8990
-このドキュメントは Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) ライセンスのもとで公開されています。
-Licensed under CC BY-NC-ND 4.0. Non-commercial use only, no derivatives.
-商用利用や改変はご遠慮いただき、非営利目的でのご利用をお願いいたします。
-※名称・構造・表現の商標利用はご遠慮ください。
-🔗 ライセンスの詳細はhttps://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja をご覧ください。
+© 2025 @kotaro-8990  
+このドキュメントは Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) ライセンスのもとで公開されています。  
+
+禁止事項：  
+- 商用利用  
+- 改変（改稿・編集・加工など）  
+- 名称・構造・表現の商標的利用  
+
+非営利目的でのご利用をお願いいたします。  
+🔗 ライセンスの詳細は https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja をご覧ください。
+
+---
